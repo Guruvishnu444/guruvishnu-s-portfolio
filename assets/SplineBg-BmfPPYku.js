@@ -1,0 +1,1 @@
+import{n as e}from"./index-Bd5SLBqK.js";var t=e();function n(){return(0,t.jsx)(`iframe`,{title:`3D background`,src:`https://my.spline.design/meeet-yu3k1AMZvtoQwE2nmGdAqGlB/`,loading:`lazy`,"aria-hidden":!0,className:`fixed inset-0 w-full h-full pointer-events-none border-0 opacity-[0.35] z-0`})}export{n as default};
